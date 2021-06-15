@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://habibmy.github.io/csb-xtemf/static/css/main.ddf1d9ed.chunk.css",
-    "main.js": "https://habibmy.github.io/csb-xtemf/static/js/main.3e9661df.chunk.js",
-    "main.js.map": "https://habibmy.github.io/csb-xtemf/static/js/main.3e9661df.chunk.js.map",
-    "runtime-main.js": "https://habibmy.github.io/csb-xtemf/static/js/runtime-main.1a57dc1b.js",
-    "runtime-main.js.map": "https://habibmy.github.io/csb-xtemf/static/js/runtime-main.1a57dc1b.js.map",
-    "static/js/2.2b138014.chunk.js": "https://habibmy.github.io/csb-xtemf/static/js/2.2b138014.chunk.js",
-    "static/js/2.2b138014.chunk.js.map": "https://habibmy.github.io/csb-xtemf/static/js/2.2b138014.chunk.js.map",
+    "main.js": "https://habibmy.github.io/csb-xtemf/static/js/main.4737cf32.chunk.js",
+    "main.js.map": "https://habibmy.github.io/csb-xtemf/static/js/main.4737cf32.chunk.js.map",
+    "runtime-main.js": "https://habibmy.github.io/csb-xtemf/static/js/runtime-main.7e9b2b73.js",
+    "runtime-main.js.map": "https://habibmy.github.io/csb-xtemf/static/js/runtime-main.7e9b2b73.js.map",
+    "static/js/2.7061bb80.chunk.js": "https://habibmy.github.io/csb-xtemf/static/js/2.7061bb80.chunk.js",
+    "static/js/2.7061bb80.chunk.js.map": "https://habibmy.github.io/csb-xtemf/static/js/2.7061bb80.chunk.js.map",
     "index.html": "https://habibmy.github.io/csb-xtemf/index.html",
     "static/css/main.ddf1d9ed.chunk.css.map": "https://habibmy.github.io/csb-xtemf/static/css/main.ddf1d9ed.chunk.css.map",
-    "static/js/2.2b138014.chunk.js.LICENSE.txt": "https://habibmy.github.io/csb-xtemf/static/js/2.2b138014.chunk.js.LICENSE.txt"
+    "static/js/2.7061bb80.chunk.js.LICENSE.txt": "https://habibmy.github.io/csb-xtemf/static/js/2.7061bb80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a57dc1b.js",
-    "static/js/2.2b138014.chunk.js",
+    "static/js/runtime-main.7e9b2b73.js",
+    "static/js/2.7061bb80.chunk.js",
     "static/css/main.ddf1d9ed.chunk.css",
-    "static/js/main.3e9661df.chunk.js"
+    "static/js/main.4737cf32.chunk.js"
   ]
 }
